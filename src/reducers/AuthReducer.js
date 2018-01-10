@@ -12,8 +12,8 @@ import {
 
 const INITIAL_STATE = {
   authenticated: false,
-  email: 'jose@gmail.com',
-  password: '123456',
+  email: '',
+  password: '',
   loading: false,
   error: {},
   user: null,
